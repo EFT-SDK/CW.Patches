@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>CW.WindowSize</AssemblyName>
+    <RootNamespace>CW.WindowSize</RootNamespace>
+  </PropertyGroup>
+</Project>

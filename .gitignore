@@ -1,0 +1,11 @@
+
+/.vs/CW.Patches/CopilotIndices
+/.vs/CW.Patches/DesignTimeBuild
+/.vs/CW.Patches/FileContentIndex
+/.vs/CW.Patches/v17
+/\!notes
+**/bin/
+**/obj/
+
+/src/CW.NoClip
+/src/CW.Permissions

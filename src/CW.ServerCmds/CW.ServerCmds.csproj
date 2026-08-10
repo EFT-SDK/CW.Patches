@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>CW.ServerCmds</AssemblyName>
+    <RootNamespace>CW.ServerCmds</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="..\Shared\CwConsole.cs" Link="CwConsole.cs" />
+  </ItemGroup>
+</Project>
