@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>CW.Bots</AssemblyName>
+    <RootNamespace>CW.Bots</RootNamespace>
+  </PropertyGroup>
+</Project>

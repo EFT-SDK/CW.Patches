@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW.WindowSize", "src\CW.Win
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW.ClientEmu", "src\CW.ClientEmu\CW.ClientEmu.csproj", "{05428932-76BC-499B-8C18-F718BC66B89E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CW.Bots", "src\CW.Bots\CW.Bots.csproj", "{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,18 @@ Global
 		{05428932-76BC-499B-8C18-F718BC66B89E}.Release|x64.Build.0 = Release|Any CPU
 		{05428932-76BC-499B-8C18-F718BC66B89E}.Release|x86.ActiveCfg = Release|Any CPU
 		{05428932-76BC-499B-8C18-F718BC66B89E}.Release|x86.Build.0 = Release|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Debug|x64.Build.0 = Debug|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Debug|x86.Build.0 = Debug|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Release|x64.ActiveCfg = Release|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Release|x64.Build.0 = Release|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Release|x86.ActiveCfg = Release|Any CPU
+		{7C3D1E44-90AB-4F62-9E58-2D71A6C4B015}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
